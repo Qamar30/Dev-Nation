@@ -1,5 +1,7 @@
 # Dev-Nation
 
+- Nolan Seokane
+
 ## A collection of resources for Web Development
 
 - Python (Django)
