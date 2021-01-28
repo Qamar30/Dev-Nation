@@ -1,0 +1,102 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  margin: 0;
+}
+
+.container {
+  background: radial-gradient(circle, white, #ffca7a, #ff9d00);
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 100vh;
+  padding: 1rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#register,
+#login,
+.books {
+  -webkit-box-shadow: 0 0 10px 1px black;
+          box-shadow: 0 0 10px 1px black;
+  background-color: #fff;
+  text-align: center;
+  margin: 0 auto;
+  width: 40%;
+}
+
+.header,
+.footer {
+  background-color: #ff9d00;
+  padding: 1rem;
+}
+
+.header h1 {
+  text-shadow: 0 0 5px white;
+}
+
+.body {
+  text-align: start;
+  max-height: 70vh;
+  overflow-y: auto;
+  padding: 1rem;
+}
+
+.body label {
+  padding: 0.4rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+}
+
+.body label input {
+  width: 100%;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.footer button {
+  background-color: white;
+  padding: 0.7rem;
+  width: 100%;
+}
+
+.book {
+  padding: 0.4rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.book button {
+  border-radius: 5px;
+  padding: 0.5rem;
+}
+
+.book button:first-of-type {
+  background-color: #ecec00;
+  margin-right: 0.5rem;
+}
+
+.book button:last-of-type {
+  background-color: #da0e0e;
+  color: #fff;
+}
+
+button,
+input {
+  padding: 0.3rem;
+}
+/*# sourceMappingURL=App.css.map */
