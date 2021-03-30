@@ -202,7 +202,7 @@ _`You just need an IDE to work with, I suggest` **[VS Code]()**`. It is easier t
 
 ## **GitHub**
 
-**_`Here you will a few GitHub basic commands and how to contribute to open source projects.`_**
+**_`Here you will few GitHub basic commands and how to contribute to open source projects.`_**
 
 ### **Setups**
 
