@@ -5,9 +5,8 @@
 1. Contributors
 2. Languages and their Resources
 
-   - [HTML and SASS](htmlandsass/README.md)
-     - [Simple Web](htmlandsass/simple/README.md)
-     - [Responsive Web](htmlandsass/responsive/README.md)
+   - [CSS and SASS](cssandsass/README.md)
+     - 
    - [Python](python/README.md)
      - [Setup and Installation](python/setup.md)
      - Django
@@ -151,7 +150,7 @@ Under Construction
 
 
 
-### **Setups**
+### **Installation**
 
 [Coming soon!]()
 
@@ -190,7 +189,7 @@ Under Construction
 
 **_`Here you will a few GitHub basic commands and how to contribute to open source projects.`_**
 
-### **Setups**
+### **Installaation**
 
 [Coming soon!]()
 
