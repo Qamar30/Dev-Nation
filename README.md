@@ -54,7 +54,7 @@
 
 ### **Setups**
 
-_`You just need an IDE to work with, I suggest` **[VS Code]()**`. It is easier to user and has more convenient extensions for fast development.`_
+_`You just need an IDE to work with, I suggest` **[VS Code]()**`. It is easier to use and has more convenient extensions for fast development.`_
 
 **_`NB: I do not get paid to get you to use the IDE, I just prefer it`_**
 
@@ -75,7 +75,7 @@ _`You just need an IDE to work with, I suggest` **[VS Code]()**`. It is easier t
 
 ## **Python**
 
-**_`You will be looking at Python for web development. The famouse Python Frameworks are Flask and Django for web development but only Django is covered on these lessons.`_**
+**_`You will be looking at Python for web development. The famous Python Frameworks are Flask and Django for web development but only Django is covered on these lessons.`_**
 
 ### **Setups**
 
@@ -180,7 +180,7 @@ _`You just need an IDE to work with, I suggest` **[VS Code]()**`. It is easier t
 
 ## **Netlify**
 
-**_`Here you will learn how to deploy your static website to Netflify using GitHub.`_**
+**_`Here you will learn how to deploy your static website to Netlify using GitHub.`_**
 
 ### **Setups**
 
