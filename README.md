@@ -54,7 +54,7 @@
 
 ### **Setups**
 
-_`You just need an IDE to work with, I suggest` **[VS Code]()**`. It is easier to user and has more convenient extensions for fast development.`_
+_`You just need an IDE to work with, I suggest` **[VS Code]()**`. It is easier to use and has more convenient extensions for fast development.`_
 
 **_`NB: I do not get paid to get you to use the IDE, I just prefer it`_**
 
@@ -75,7 +75,7 @@ _`You just need an IDE to work with, I suggest` **[VS Code]()**`. It is easier t
 
 ## **Python**
 
-**_`You will be looking at Python for web development. The famouse Python Frameworks are Flask and Django for web development but only Django is covered on these lessons.`_**
+**_`You will be working with Python for web development. Some famouse Python Frameworks for web development are Flask and Django but in these lessons, only Django is covered.`_**
 
 ### **Setups**
 
@@ -101,7 +101,7 @@ _`You just need an IDE to work with, I suggest` **[VS Code]()**`. It is easier t
   - [CRUD](python/DRF/CRUD/crud.md)
   - [Authentication Using A Token](python/DRF/authenticating/auth.md)
 
-### **Documentations**
+### **Documentation**
 
 - [Django documentaion](https://docs.djangoproject.com/en/3.1/)
 - [Django Rest Framework](https://www.django-rest-framework.org/)
