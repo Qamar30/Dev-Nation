@@ -5,9 +5,8 @@
 1. Contributors
 2. Languages and their Resources
 
-   - [HTML and SASS](htmlandsass/README.md)
-     - [Simple Web](htmlandsass/simple/README.md)
-     - [Responsive Web](htmlandsass/responsive/README.md)
+   - [CSS and SASS](cssandsass/README.md)
+     - 
    - [Python](python/README.md)
      - [Setup and Installation](python/setup.md)
      - Django
@@ -48,26 +47,24 @@
 
 # **LANGUAGES AND THEIR RESOURCES**
 
-## **HTML and SASS**
+## **CSS/SASS**
 
-**_`Here you will learn some HTML and SASS so that you can make your website pretty and responsive.`_**
 
-### **Setups**
+
 
 _`You just need an IDE to work with, I suggest` **[VS Code]()**`. It is easier to use and has more convenient extensions for fast development.`_
+=======
+### **Installation**
 
-**_`NB: I do not get paid to get you to use the IDE, I just prefer it`_**
+
+
 
 ### **Resources**
 
-[Coming soon!]()
+Under Construction
 
-### **Project Tutorials**
 
-- [Simple Website](htmlandsass/simple/README.md)
-- [Responsive Website](htmlandsass/responsive/README.md)
-
-### **Documentations**
+### **Documentation**
 
 [Coming soon!]()
 
@@ -75,17 +72,20 @@ _`You just need an IDE to work with, I suggest` **[VS Code]()**`. It is easier t
 
 ## **Python**
 
-**_`You will be working with Python for web development. Some famouse Python Frameworks for web development are Flask and Django but in these lessons, only Django is covered.`_**
 
-### **Setups**
+**_`You will be working with Python for web development. Some famouse Python Frameworks for web development are Flask and Django but in these lessons, only Django is covered.`_**
+=======
+
+
+
+### **Installation**
 
 - [Python]()
-- [Anaconda]()
+-
 
 ### **Resources**
 
-- [Python packages](https://pypi.org/)
-- [Anaconda Packages](https://anaconda.org/anaconda/repo)
+- 
 - [Awesome Python (GitHub Repo)](https://github.com/vinta/awesome-python/blob/master/README.md)
 
 ### **Project Tutorials**
@@ -105,15 +105,15 @@ _`You just need an IDE to work with, I suggest` **[VS Code]()**`. It is easier t
 
 - [Django documentaion](https://docs.djangoproject.com/en/3.1/)
 - [Django Rest Framework](https://www.django-rest-framework.org/)
-- [Anaconda Documentation](https://docs.anaconda.com/anaconda/packages/pkg-docs/)
+
 
 #
 
 ## **React JS**
 
-**_`Here you will learn React JS.`_**
 
-### **Setups**
+
+### **Installation**
 
 [Coming soon!]()
 
@@ -134,9 +134,9 @@ _`You just need an IDE to work with, I suggest` **[VS Code]()**`. It is easier t
 
 ## **SQL**
 
-**_`Here you will learn SQL.`_**
 
-### **Setups**
+
+### **Installation**
 
 [Coming soon!]()
 
@@ -148,7 +148,7 @@ _`You just need an IDE to work with, I suggest` **[VS Code]()**`. It is easier t
 
 - [SQL](sql/README.md)
 
-### **Documentations**
+### **Documentation**
 
 [Coming soon!]()
 
@@ -156,9 +156,9 @@ _`You just need an IDE to work with, I suggest` **[VS Code]()**`. It is easier t
 
 ## **PHP**
 
-**_`Here you will learn PHP.`_**
 
-### **Setups**
+
+### **Installation**
 
 [Coming soon!]()
 
@@ -176,13 +176,6 @@ _`You just need an IDE to work with, I suggest` **[VS Code]()**`. It is easier t
 
 [Coming soon!]()
 
-#
-
-## **Netlify**
-
-**_`Here you will learn how to deploy your static website to Netflify using GitHub.`_**
-
-### **Setups**
 
 [Coming soon!]()
 
@@ -194,7 +187,7 @@ _`You just need an IDE to work with, I suggest` **[VS Code]()**`. It is easier t
 
 [Coming soon!]()
 
-### **Documentations**
+### **Documentation**
 
 [Coming soon!]()
 
@@ -204,7 +197,7 @@ _`You just need an IDE to work with, I suggest` **[VS Code]()**`. It is easier t
 
 **_`Here you will few GitHub basic commands and how to contribute to open source projects.`_**
 
-### **Setups**
+### **Installaation**
 
 [Coming soon!]()
 
