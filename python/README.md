@@ -2,7 +2,7 @@
 
 Dev-nation (https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
 
-THis above link gives a full course on Python. Navin Reddy is the teacher in the video. He simplifies every 
+This above link gives a full course on Python. Navin Reddy is the teacher in the video. He simplifies every 
 topic and teaches everything in such detail that no one else would explain it so really well.
 
 Dev-nation (https://www.w3schools.com/python/default.asp)
