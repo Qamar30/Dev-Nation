@@ -52,8 +52,6 @@
 
 
 
-_`You just need an IDE to work with, I suggest` **[VS Code]()**`. It is easier to use and has more convenient extensions for fast development.`_
-=======
 ### **Installation**
 
 
@@ -71,10 +69,6 @@ Under Construction
 #
 
 ## **Python**
-
-
-**_`You will be working with Python for web development. Some famouse Python Frameworks for web development are Flask and Django but in these lessons, only Django is covered.`_**
-=======
 
 
 
@@ -195,7 +189,6 @@ Under Construction
 
 ## **GitHub**
 
-**_`Here you will few GitHub basic commands and how to contribute to open source projects.`_**
 
 ### **Installaation**
 
