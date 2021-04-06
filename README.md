@@ -51,7 +51,9 @@
 
 
 
+
 ### **Installation**
+
 
 
 
@@ -93,7 +95,7 @@ Under Construction
   - [CRUD](python/DRF/CRUD/crud.md)
   - [Authentication Using A Token](python/DRF/authenticating/auth.md)
 
-### **Documentations**
+### **Documentation**
 
 - [Django documentaion](https://docs.djangoproject.com/en/3.1/)
 - [Django Rest Framework](https://www.django-rest-framework.org/)
@@ -187,7 +189,6 @@ Under Construction
 
 ## **GitHub**
 
-**_`Here you will a few GitHub basic commands and how to contribute to open source projects.`_**
 
 ### **Installaation**
 
