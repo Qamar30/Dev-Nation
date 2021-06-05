@@ -6,7 +6,8 @@
 2. Languages and their Resources
 
    - [CSS and SASS](cssandsass/README.md)
-     - 
+      - [Simple Website](htmlandsass/simple/README.md)
+      - [Responsive Website](htmlandsass/responsive/README.md)
    - [Python](python/README.md)
      - [Setup and Installation](python/setup.md)
      - Django
