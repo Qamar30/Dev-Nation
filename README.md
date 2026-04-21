@@ -106,6 +106,36 @@ This repository is designed to help you learn and build projects using modern we
 
 ---
 
+
+## 🎓 Bootcamps
+
+Explore structured learning paths and intensive programs to accelerate your development journey:
+
+- Full Stack Web Development Bootcamp (Coming Soon)
+- Frontend Development Bootcamp (Coming Soon)
+- Backend Development Bootcamp (Coming Soon)
+
+📌 These will include:
+- Step-by-step learning paths  
+- Real-world projects  
+- Milestones and challenges  
+
+---
+
+## ☁️ Cloud Services
+
+Learn how to deploy, manage, and scale applications using cloud platforms:
+
+- **AWS (Amazon Web Services)** – Coming Soon  
+- **Microsoft Azure** – Coming Soon  
+- **Google Cloud Platform (GCP)** – Coming Soon  
+
+📌 Topics to be covered:
+- Hosting applications  
+- CI/CD pipelines  
+- Environment variables & secrets  
+- Scaling and monitoring  
+
 ## 🗂️ Project Structure
 
 
