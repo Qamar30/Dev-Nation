@@ -1,215 +1,117 @@
 # **DEV-NATION**
 
-# **TABLE OF CONTENT**
+A comprehensive collection of tutorials and resources for learning web development across multiple programming languages and frameworks.
 
-1. Contributors
-2. Languages and their Resources
+---
 
-   - [CSS and SASS](cssandsass/README.md)
-     - 
-   - [Python](python/README.md)
-     - [Setup and Installation](python/setup.md)
-     - Django
-       - [Hello world](python/django/first_app/HelloWorld.md)
-       - [CRUD, PosgreSQL and Deployement](python/django/CRUD/crud.md)
-       - [Authentication](python/django/authenticating/auth.md)
-       - [E-Commerce Website](python/django/e-commerce/e-com.md)
-     - Django Rest Framework
-       - [Hello World](python/DRF/hello/helloworld.md)
-       - [CRUD](python/DRF/CRUD/crud.md)
-       - [Authentication Using A Token](python/DRF/authenticating/auth.md)
-   - [React JS](reactjs/README.md)
-     - [Setup and Installation](reactjs/setup.md)
-     - [Hello World](reactjs/frontend/README.md)
-   - [Django x React](djangoandreactjs/README.md)
-     - [Intergrading Django with React JS](djangoandreactjs/README.md)
-     - [TODO App](djangoandreactjs/README.md)
-   - [SQL](sql/README.md)
-   - [PHP](php/README.md)
-     - [Setup and Installation](php/setup.md)
-     - [PHP Sandbox](php/phpsandbox/README.md)
-     - [Connecting to MySQL using PDO](php/pdo/README.md)
-   - [Netlify](netlify/README.md)
-   - [GitHub](github/README.md)
-     - [Basic commands](github/BasicCommands.md)
-     - [Contribution to open source](github/CONTRIBUTE.md)
+## **TABLE OF CONTENTS**
 
-3. [Contribution](github/CONTRIBUTE.md)
+1. [Quick Start](#quick-start)
+2. [Languages and Resources](#languages-and-resources)
+3. [Contributors](#contributors)
+4. [Contributing](#contribution)
 
-#
+---
 
-# **CONTRIBUTORS**
+## **QUICK START**
 
-- [Nolan Seokane](https://github.com/nseokaneJHB)
-- [Siphiwe Khoza](https://github.com/Qamar30)
+This repository contains tutorials and guides for:
+- **Backend**: Python (Django, Django REST Framework), PHP
+- **Frontend**: React JS, CSS/SASS
+- **Databases**: SQL
+- **Deployment & Version Control**: GitHub, Netlify
 
-#
+Start by choosing your language of interest below!
 
-# **LANGUAGES AND THEIR RESOURCES**
+---
 
-## **CSS/SASS**
+## **LANGUAGES AND THEIR RESOURCES**
 
+### **CSS/SASS**
 
+- [CSS and SASS Guide](cssandsass/README.md)
 
-### **Installation**
+### **Python**
 
-
-
-### **Resources**
-
-Under Construction
-
-
-### **Documentation**
-
-[Coming soon!]()
-
-#
-
-## **Python**
-
-
-
-### **Installation**
-
-- [Python]()
--
-
-### **Resources**
-
-- 
-- [Awesome Python (GitHub Repo)](https://github.com/vinta/awesome-python/blob/master/README.md)
-
-### **Project Tutorials**
-
+**Installation & Setup**
 - [Setup and Installation](python/setup.md)
-- Django
-  - [Hello world](python/django/first_app/HelloWorld.md)
-  - [CRUD, PosgreSQL and Deployement](python/django/CRUD/crud.md)
+
+**Project Tutorials**
+
+- **Django**
+  - [Hello World](python/django/first_app/HelloWorld.md)
+  - [CRUD, PostgreSQL and Deployment](python/django/CRUD/crud.md)
   - [Authentication](python/django/authenticating/auth.md)
   - [E-Commerce Website](python/django/e-commerce/e-com.md)
-- Django Rest Framework
+
+- **Django REST Framework**
   - [Hello World](python/DRF/hello/helloworld.md)
   - [CRUD](python/DRF/CRUD/crud.md)
   - [Authentication Using A Token](python/DRF/authenticating/auth.md)
 
-### **Documentations**
+**Documentation**
+- [Django Documentation](https://docs.djangoproject.com/en/3.1/)
+- [Django REST Framework Documentation](https://www.django-rest-framework.org/)
+- [Awesome Python GitHub Repo](https://github.com/vinta/awesome-python)
 
-- [Django documentaion](https://docs.djangoproject.com/en/3.1/)
-- [Django Rest Framework](https://www.django-rest-framework.org/)
+### **React JS**
 
-
-#
-
-## **React JS**
-
-
-
-### **Installation**
-
-[Coming soon!]()
-
-### **Resources**
-
-[Coming soon!]()
-
-### **Project Tutorials**
-
+**Installation & Setup**
 - [Setup and Installation](reactjs/setup.md)
+
+**Project Tutorials**
 - [Hello World](reactjs/frontend/README.md)
 
-### **Documentations**
+### **Django × React**
 
-[Coming soon!]()
+**Project Tutorials**
+- [Integrating Django with React JS](djangoandreactjs/README.md)
+- [TODO App](djangoandreactjs/README.md)
 
-#
+### **SQL**
 
-## **SQL**
+- [SQL Guide](sql/README.md)
 
+### **PHP**
 
-
-### **Installation**
-
-[Coming soon!]()
-
-### **Resources**
-
-[Coming soon!]()
-
-### **Project Tutorials**
-
-- [SQL](sql/README.md)
-
-### **Documentation**
-
-[Coming soon!]()
-
-#
-
-## **PHP**
-
-
-
-### **Installation**
-
-[Coming soon!]()
-
-### **Resources**
-
-[Coming soon!]()
-
-### **Project Tutorials**
-
+**Installation & Setup**
 - [Setup and Installation](php/setup.md)
+
+**Project Tutorials**
 - [PHP Sandbox](php/phpsandbox/README.md)
 - [Connecting to MySQL using PDO](php/pdo/README.md)
 
-### **Documentations**
+### **Deployment & Hosting**
 
-[Coming soon!]()
+- **GitHub**
+  - [Basic Commands](github/BasicCommands.md)
+  - [Contributing to Open Source](github/CONTRIBUTE.md)
 
+- **Netlify**
+  - [Netlify Guide](netlify/README.md)
 
-[Coming soon!]()
+---
 
-### **Resources**
+## **CONTRIBUTORS**
 
-[Coming soon!]()
+- [Nolan Seokane](https://github.com/nseokaneJHB)
+- [Siphiwe Khoza](https://github.com/Qamar30)
 
-### **Project Tutorials**
+---
 
-[Coming soon!]()
+## **CONTRIBUTION**
 
-### **Documentation**
+Contributions are always welcome! 
 
-[Coming soon!]()
+Please take a look at the [contribution guidelines](github/CONTRIBUTE.md) before submitting your contribution.
 
-#
+### How to Contribute
 
-## **GitHub**
+1. Fork the repository
+2. Create a new branch for your changes
+3. Make your improvements
+4. Submit a pull request
 
-**_`Here you will a few GitHub basic commands and how to contribute to open source projects.`_**
+---
 
-### **Installaation**
-
-[Coming soon!]()
-
-### **Resources**
-
-[Coming soon!]()
-
-### **Project Tutorials**
-
-- [Basic Commands](github/commands/BasicCommands.md)
-- [Contributing to open source project](github/contribute/CONTRIBUTE.md)
-
-### **Documentations**
-
-[Coming soon!]()
-
-#
-
-# **CONTRIBUTION**
-
-Contributions are welcome
-
-Your contributions are always welcome! Please take a look at the [contribution guidelines](contributionguidlines.md) first.
+**Last Updated**: April 21, 2026
