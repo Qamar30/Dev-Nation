@@ -1,5 +1,12 @@
 # 🚀 DEV-NATION
 
+![GitHub Stars](https://img.shields.io/github/stars/nseokaneJHB/DEV-NATION?style=for-the-badge&color=yellow)
+![GitHub Issues](https://img.shields.io/github/issues/nseokaneJHB/DEV-NATION?style=for-the-badge&color=red)
+![GitHub PRs](https://img.shields.io/github/issues-pr/nseokaneJHB/DEV-NATION?style=for-the-badge&color=blue)
+![GitHub Contributors](https://img.shields.io/github/contributors/nseokaneJHB/DEV-NATION?style=for-the-badge&color=green)
+
+
+
 A comprehensive collection of tutorials and resources for learning web development across multiple programming languages and frameworks.
 
 ---
